@@ -1,7 +1,7 @@
 <h1 align="center">hello there i am mohammad unique2</h1>
 <h3 align="center">I think, therefore I am</h3>
 
-- ⚡ Fun fact **we are sinking, we are sinking, What are you sinking about?**
+- ⚡ Fun fact **We are sinking, we are sinking, What are you sinking about?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
