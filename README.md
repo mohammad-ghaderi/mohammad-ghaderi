@@ -1,8 +1,6 @@
 <h1 align="center">hello there i am mohammad unique2</h1>
-<h3 align="center">I think, therefore I am</h3>
+<h3 align="center">I code, therefore I am</h3>
 
-- ⚡ Fun fact **we are sinking, we are sinking, What are you thinking about?**
-  
   <span class="bold">Email :</span> <span>mohammadunique2002@gmail.com</span>
 
 <h3 align="left">Languages and Tools:</h3>
